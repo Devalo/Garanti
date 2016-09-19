@@ -1,0 +1,2 @@
+defmodule Garanti do
+end
